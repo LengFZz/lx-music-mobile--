@@ -350,6 +350,11 @@ declare global {
        * 是否启用同步
        */
       'sync.enable': boolean
+
+      /**
+       * 是否启用下载
+       */
+      'download.enable': boolean
     }
   }
 }
